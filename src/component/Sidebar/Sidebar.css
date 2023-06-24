@@ -1,0 +1,13 @@
+.sidebar-left{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding-left: 2rem;
+}
+.sidebar-left a{
+color: black;
+font-size: 1.4rem;
+}
+i.fa{
+ margin-right: 10px;
+}

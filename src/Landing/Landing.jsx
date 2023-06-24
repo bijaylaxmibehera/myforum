@@ -1,9 +1,13 @@
+import { Sidebar } from '../component/Sidebar/Sidebar'
 import './Landing.css'
 
 export function Landing(){
     return (
         <>
-        <h1>this is landing page</h1>
+        <div>
+            <Sidebar/>
+        </div>
+        {/* <h1>this is landing page</h1> */}
         </>
     )
 }
