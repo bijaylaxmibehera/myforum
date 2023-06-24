@@ -1,0 +1,15 @@
+.profile{
+    display: flex;
+    gap: 1rem;
+    margin: 2rem 1.4rem;
+}
+
+.profile img{
+    width: 40px;
+    height: auto;
+
+}
+
+.username{
+    color: rgb(151, 70, 232);
+}
